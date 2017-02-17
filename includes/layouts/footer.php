@@ -1,7 +1,7 @@
-<div id="footer">
-</div><!-- #footer -->
-
-</body>
+    <div id="footer">
+    </div><!-- #footer -->
+    <script src="assets/js/script.js"></script>
+  </body>
 </html>
 <?php
   // Close database connection.
